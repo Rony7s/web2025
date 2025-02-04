@@ -1,0 +1,12 @@
+first day github
+1 create a repository by browser
+
+clone this like : git clone myNew
+or create a folder same name
+git init
+git add .
+git commit -"Massage"
+ two work first do emain and user and author browser
+
+finaly
+git push origin main
